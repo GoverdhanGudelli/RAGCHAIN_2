@@ -8,3 +8,4 @@ langsmith
 pypdf
 langchain-ollama
 langchain-chroma
+protobuf~=3.20.0
